@@ -1,0 +1,17 @@
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\HRI11000.csprojResolveAssemblyReference.cache
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\JihooSoft.WOORIERP.HRM.HRI11000.resources
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\JihooSoft.WOORIERP.HRM.Properties.Resources.resources
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\HRI11000.csproj.GenerateResource.Cache
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\JihooSoft.WOORIERP.HRM.HRI11000.dll.licenses
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\JihooSoft.WOORIERP.HRM.HRI11000.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\JihooSoft.WOORIERP.HRM.HRI11000.pdb
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\JPlatform.Client.JBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\JPlatform.Client.WOORIERPBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\Interop.Excel.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\Interop.Office.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\ko\Microsoft.Windows.Design.Interaction.resources.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\bin\Release\ko\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\JihooSoft.WOORIERP.HRM.HRI11000.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\WOORI\HRI11000\HRI11000\obj\Release\JihooSoft.WOORIERP.HRM.HRI11000.pdb

@@ -1,0 +1,17 @@
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.pdb
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\JPlatform.Client.JBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\JPlatform.Client.WOORIERPBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\Interop.Excel.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\Interop.Office.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\ko\Microsoft.Windows.Design.Interaction.resources.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\bin\Debug\ko\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\SNC2000_POP_DO.csprojResolveAssemblyReference.cache
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.resources
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\JihooSoft.WOORIERP.SNC.Properties.Resources.resources
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\SNC2000_POP_DO.csproj.GenerateResource.Cache
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.dll.licenses
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.dll
+C:\Users\honeychaser\Desktop\작업공간\임시공간\SNC2000_POP_DO\SNC2000_POP_DO\obj\Debug\JihooSoft.WOORIERP.SNC.SNC2000_POP_DO.pdb

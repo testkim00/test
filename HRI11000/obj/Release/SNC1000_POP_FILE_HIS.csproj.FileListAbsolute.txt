@@ -1,0 +1,17 @@
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\SNC1000_POP_FILE_HIS.csprojResolveAssemblyReference.cache
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.resources
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\JihooSoft.WOORIERP.SNC.Properties.Resources.resources
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\SNC1000_POP_FILE_HIS.csproj.GenerateResource.Cache
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.dll.licenses
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.pdb
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\JPlatform.Client.JBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\JPlatform.Client.WOORIERPBaseForm6.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\Interop.Excel.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\Interop.Office.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\ko\Microsoft.Windows.Design.Interaction.resources.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\bin\Release\ko\Microsoft.Windows.Design.Extensibility.resources.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.dll
+C:\Users\honeychaser\Desktop\작업폴더(완성)\SNC\임시공간\SNC1000_POP_FILE_HIS\SNC1000_POP_FILE_HIS\obj\Release\JihooSoft.WOORIERP.SNC.SNC1000_POP_FILE_HIS.pdb
