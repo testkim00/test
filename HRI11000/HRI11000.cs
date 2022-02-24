@@ -719,16 +719,7 @@ namespace JihooSoft.WOORIERP.HRM
 
         private void repositoryItemGridLookUpEdit1_CloseUp(object sender, CloseUpEventArgs e)
         {
-            //var editor = sender as GridLookUpEdit;
-            //if(editor != null)
-            //{
-            //    var enteredLookUpText = editor.Text;
-            //    if(e.CloseMode == PopupCloseMode.Immediate)
-            //    {
-            //        e.Value = enteredLookUpText;
-            //        repositoryItemGridLookUpEdit1_ProcessNewValue(sender, new ProcessNewValueEventArgs(enteredLookUpText));
-            //    }
-            //}
+           //test
         }
 
         private void gvwFile_CellValueChanging(object sender, DevExpress.XtraGrid.Views.Base.CellValueChangedEventArgs e)
